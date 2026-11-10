@@ -3,7 +3,7 @@ import { resolve } from 'path';
 
 export default defineConfig({
   root: 'src',
-  base: '/goit-js-hw-09/src/',
+  base: '/goit-js-hw-09/',
   build: {
     rollupOptions: {
       input: {
